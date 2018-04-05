@@ -1,0 +1,90 @@
+body
+{
+    padding-top: 20px;
+    background-color: #222222;
+    color: white;
+}
+
+body input
+{
+    color: #222222;
+}
+
+.titre
+{
+    padding-bottom: 20px;
+    text-align: center;
+    font-family: cursive;
+}
+
+.nav-fixed-top
+{
+    border-top: 1px solid #666666;
+    border-bottom: 1px solid #666666;
+}
+
+.footer
+{
+    border-top: 1px solid #666666;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.signature
+{
+    margin-right: 10%;
+}
+
+.page
+{
+    margin-right: 5%;
+}
+
+.diaporama
+{
+    text-align: center;
+}
+
+.texte
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.image
+{
+    border-radius: 7px;
+    border: 2px solid white;
+    box-shadow: 1px 1px 10px #555;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.photographe
+{
+    text-align: center;
+}
+
+.arrows
+{
+    margin: auto;
+}
+
+.mot
+{
+    color: white;
+}
+
+.bleu
+{
+    color: dodgerblue;
+}
+
+.input
+{
+    background-color: #222222;
+    color: white;
+    border: 2px solid #222222;
+}
